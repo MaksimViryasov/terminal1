@@ -1,0 +1,10 @@
+Environment: Win 10 Chrome 114, Microsoft Edge 114, Firefox 115
+Title : Image is not displayed on menu item [CFD-Handel] when the DE language is selected
+Steps : 1. Navigate to capital.com
+2. Select language DE
+3.Hover over menu section [Schulung]
+4.Click item [CFD-Handel]  
+5.Select link [Was ist der Unterschied zwischen Aktien und CFD?] on Sidebar
+6.Scroll down to the widjet "Most traded"
+Expected Result : Image is displayed 
+Actual Result : Image is not displayed 
