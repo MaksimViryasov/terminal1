@@ -1,0 +1,7 @@
+1.	Menu title [About Capital]
+Block "Enjoy our award-winning online trading platform"
+Tap button [Download on the app Store] / [Get it on Google Play] == The app’s page "Capital.com" on App Store/ Google Play is opened (Unregistered user) / The app’s page "Capital.com" on App Store/ Google Play is opened (Authorized user)
+Tap button [Explore Web Platform] == Sign Up form is opened (Unregistered user) / "- The app’s page “Capital.com” on the App Store/Google Play is opened  
+OR 
+- The page ""We’re excited to see you here!"" is opened with the button [Download on the App Store] / [Get it on Google Play]  
+TAP the button >> The app’s page “Capital.com” on the App Store/Google Play is opened" (Authorized user)
