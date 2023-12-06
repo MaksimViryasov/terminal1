@@ -221,10 +221,10 @@ tf_2.txt:"the seConD 2"
 
 32. Найти только название и путь к файлам где нет комбинации “second”
 
-$ grep -sLr "second" *
-inner_dir_1/tf_4.txt
-inner_dir_1/tF_5.txt
-tf_1.txt
+$ grep -vrl "second" *
+inner_dir_1/tf_3.txt
+inner_dir_1/tf_5.txt
+tf_2.txt
 
  33. Вывести в терминал 4 последних строк любого текстового файла
 
